@@ -1,0 +1,16 @@
+C:\csharp\Curso_NelioAlves\arquivos1\obj\Debug\net5.0\arquivos1.csproj.AssemblyReference.cache
+C:\csharp\Curso_NelioAlves\arquivos1\obj\Debug\net5.0\arquivos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\Curso_NelioAlves\arquivos1\obj\Debug\net5.0\arquivos1.AssemblyInfoInputs.cache
+C:\csharp\Curso_NelioAlves\arquivos1\obj\Debug\net5.0\arquivos1.AssemblyInfo.cs
+C:\csharp\Curso_NelioAlves\arquivos1\obj\Debug\net5.0\arquivos1.csproj.CoreCompileInputs.cache
+C:\csharp\Curso_NelioAlves\arquivos1\bin\Debug\net5.0\arquivos1.exe
+C:\csharp\Curso_NelioAlves\arquivos1\bin\Debug\net5.0\arquivos1.deps.json
+C:\csharp\Curso_NelioAlves\arquivos1\bin\Debug\net5.0\arquivos1.runtimeconfig.json
+C:\csharp\Curso_NelioAlves\arquivos1\bin\Debug\net5.0\arquivos1.runtimeconfig.dev.json
+C:\csharp\Curso_NelioAlves\arquivos1\bin\Debug\net5.0\arquivos1.dll
+C:\csharp\Curso_NelioAlves\arquivos1\bin\Debug\net5.0\ref\arquivos1.dll
+C:\csharp\Curso_NelioAlves\arquivos1\bin\Debug\net5.0\arquivos1.pdb
+C:\csharp\Curso_NelioAlves\arquivos1\obj\Debug\net5.0\arquivos1.dll
+C:\csharp\Curso_NelioAlves\arquivos1\obj\Debug\net5.0\ref\arquivos1.dll
+C:\csharp\Curso_NelioAlves\arquivos1\obj\Debug\net5.0\arquivos1.pdb
+C:\csharp\Curso_NelioAlves\arquivos1\obj\Debug\net5.0\arquivos1.genruntimeconfig.cache
