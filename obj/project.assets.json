@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\csharp\\Curso_NelioAlves\\arquivos1\\arquivos1.csproj",
+      "projectUniqueName": "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte2\\arquivos1.csproj",
       "projectName": "arquivos1",
-      "projectPath": "C:\\csharp\\Curso_NelioAlves\\arquivos1\\arquivos1.csproj",
+      "projectPath": "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte2\\arquivos1.csproj",
       "packagesPath": "C:\\Users\\Kayke\\.nuget\\packages\\",
-      "outputPath": "C:\\csharp\\Curso_NelioAlves\\arquivos1\\obj\\",
+      "outputPath": "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kayke\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
